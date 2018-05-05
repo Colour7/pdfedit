@@ -1,6 +1,6 @@
 # pdfedit
-pdf内容替换、也可以修改字体颜色和大小、盖章、插入图片
-StringHelper是对字符串的一些常用操作的处理
+- pdf内容替换、也可以修改字体颜色和大小、盖章、插入图片
+- StringHelper是对字符串的一些常用操作的处理
 
 # 引用类库
 iText  官网是:http://www.itextpdf.com/
